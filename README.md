@@ -1,4 +1,4 @@
-# genai-app-boilerplate
+# content_tagging_unique
 
 - App used as boilerplate & clone the app modify as per your requiremnt.
 
